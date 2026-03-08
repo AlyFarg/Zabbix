@@ -1,0 +1,2 @@
+# Zabbix
+Zabbix server guideline
